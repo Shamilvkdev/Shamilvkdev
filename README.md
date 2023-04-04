@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilvkdev&label=Profile%20views&color=0e75b6&style=flat" alt="shamilvkdev" /> </p>
 
-- 🔭 I’m currently working on **osperb dashboard**
+- 🔭 I’m currently working on **Osperb Team- A SASS Project**
 
 - 🌱 I’m currently learning **Typescript, Socket.IO**
 
