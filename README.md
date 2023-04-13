@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Osperb Team- A SASS Project**
 
-- 🌱 I’m currently learning **Typescript, Socket.IO**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 💬 Ask me about **NodeJS, Typescript, ExpressJS**
 
