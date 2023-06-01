@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilvkdev&label=Profile%20views&color=0e75b6&style=flat" alt="shamilvkdev" /> </p>
 
-- 🔭 I’m currently working on **Osperb Team- A SASS Project**
+- 🔭 I’m currently working on **Shobha G&D**
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **NestJS, Docker**
 
-- 💬 Ask me about **NodeJS, Typescript, ExpressJS**
+- 💬 Ask me about **NodeJS, Typescript**
 
 - 📫 How to reach me **shamilvkage@gmail.com**
 
