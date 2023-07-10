@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilvkdev&label=Profile%20views&color=0e75b6&style=flat" alt="shamilvkdev" /> </p>
 
-- 🔭 I’m currently working on **Shobha G&D**
+- 🔭 I’m currently working on **Team Shobha G&D**
 
 - 🌱 I’m currently learning **NestJS, Docker**
 
